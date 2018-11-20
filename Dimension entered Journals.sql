@@ -1,0 +1,6 @@
+EXEC DIMACCSEL '002-1' , '8600'
+
+Site = 001-1
+Account = 8140
+
+EXEC DIMACCSEL '001-1' , '8140' , 'CBG'
